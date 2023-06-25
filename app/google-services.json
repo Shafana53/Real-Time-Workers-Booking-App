@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708628625562",
+    "project_id": "labourbooking-e8f86",
+    "storage_bucket": "labourbooking-e8f86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708628625562:android:d0c43e1d023ea475f54723",
+        "android_client_info": {
+          "package_name": "com.example.labourbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708628625562-3e23v0l38egb9hrf15cgqrm6v05m7su4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJ1td1K8BJ3s2t6j_OK7XLg1XJHRTdGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708628625562-3e23v0l38egb9hrf15cgqrm6v05m7su4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
